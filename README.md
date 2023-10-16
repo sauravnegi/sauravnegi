@@ -21,7 +21,7 @@ Embedded Systems Engineer | Tech Enthusiast
 
 ## 📫 Contact
 - LinkedIn: [sauravnegi](https://www.linkedin.com/in/sane5805/)
-- Email: kijo7257@colorado.edu
+- Email: sane5805@colorado.edu
 - GitHub: [sauravnegi](https://github.com/sauravnegi)
 
 ## 📊  Languages and Tools
