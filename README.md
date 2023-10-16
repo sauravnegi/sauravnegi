@@ -38,5 +38,5 @@ Embedded Systems Engineer | Tech Enthusiast
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=Principles-of-Embedded-Software-S22&theme=dark" alt="Principles of Embedded Software S22">
   </a>
   <div style="clear:both;"></div> <!-- Clearing element -->
-#</div>
+</div>
 
